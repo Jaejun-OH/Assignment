@@ -1,0 +1,75 @@
+body{
+  background-color:#E0FFFF;
+}
+
+h2{
+ font-size: 20px;
+}
+
+dt{
+  font-family: verdana;
+  font-size: 15px;
+}
+
+.Per{
+  background-color: lightgrey;
+  width: 800px;
+  border: 15px solid black;
+  padding: 20px;
+  margin: 20px 20px 20px 20px;
+}
+
+.PerI{
+  margin-left: 40px;
+  font-family: Times;
+  font-size: 20px;
+}
+
+
+.IIT{
+  background-color: lightgrey;
+  border: 15px solid green;
+  padding: 25px;
+  margin: 20px 400px 20px 20px ;
+}
+
+.IT_Text{
+  font-family: Times;
+  font-size: 20px;
+}
+
+.IJ{
+  background-color: lightgrey;
+  border: 15px solid coral;
+  padding: 25px;
+  margin: 20px 400px 20px 20px ;
+}
+.IJ_Text{
+  font-family: Times;
+  font-size: 20px;
+}
+
+.PP{
+  background-color: lightgrey;
+  border: 15px solid blueviolet;
+  padding: 25px;
+  margin: 20px 400px 20px 20px ;
+}
+
+.PP_Text{
+  font-family: Times;
+  font-size: 20px;
+}
+
+.PI{
+  background-color: lightgrey;
+  border: 15px solid BlanchedAlmond;
+  padding: 25px;
+  margin: 20px 400px 20px 20px ;
+}
+
+.PI_Text{
+  margin-left: 40px;
+  font-family: Times;
+  font-size: 20px;
+}
