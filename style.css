@@ -12,7 +12,7 @@ dt{
 }
 
 .Per{
-  background-color: lightgrey;
+  background-color: ghostwhite;
   width: 800px;
   border: 15px solid black;
   padding: 20px;
@@ -27,7 +27,7 @@ dt{
 
 
 .IIT{
-  background-color: lightgrey;
+  background-color: ghostwhite;
   border: 15px solid green;
   padding: 25px;
   margin: 20px 400px 20px 20px ;
@@ -39,7 +39,7 @@ dt{
 }
 
 .IJ{
-  background-color: lightgrey;
+  background-color: ghostwhite;
   border: 15px solid coral;
   padding: 25px;
   margin: 20px 400px 20px 20px ;
@@ -50,7 +50,7 @@ dt{
 }
 
 .PP{
-  background-color: lightgrey;
+  background-color: ghostwhite;
   border: 15px solid blueviolet;
   padding: 25px;
   margin: 20px 400px 20px 20px ;
@@ -62,7 +62,7 @@ dt{
 }
 
 .PI{
-  background-color: lightgrey;
+  background-color: ghostwhite;
   border: 15px solid BlanchedAlmond;
   padding: 25px;
   margin: 20px 400px 20px 20px ;
